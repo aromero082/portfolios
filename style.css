@@ -1,0 +1,26 @@
+body{
+    color: black;
+    text-align: center;
+}
+
+.top{
+    background-image:url(https://preview.redd.it/btz0xm74sfp11.jpg?auto=webp&s=62da8a51404c510c89fbdcf11e19042439fd2e54);
+}
+
+.email{
+    color: blue;
+    outline: orangered;
+    bottom: 10em;
+}
+
+#para1{
+    text-align: center;
+}
+
+#subscribe{
+    background-color: green;
+    color: aquamarine;
+    border-radius: 5em;
+    width: 60%;
+}
+
